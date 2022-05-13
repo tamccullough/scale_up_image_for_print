@@ -1,4 +1,4 @@
-# scale_up_image_for_print
+# Scale and Image for Print
 by culla
 
 This will allow the user accurately to scale a digital image for printing.
@@ -24,3 +24,6 @@ OR alternatively you can just double click the py file itself that you want to u
 FOR MAC (I don't own or use a Mac but these intructions should be substitable)
 
 pdf instructions
+
+
+### I will add more options later
